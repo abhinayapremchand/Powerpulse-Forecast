@@ -48,6 +48,10 @@ Best performing model: Linear Regression
 - Jupyter Notebook with documented code
 - Visual performance comparison
 
+## Data Link  
+[https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip](https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip)
+
+
 ## Author
 Abhinaya Premchand
 
